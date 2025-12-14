@@ -1,1 +1,1 @@
-# Smart-Juice
+Smart Juice Lab is a React Native mobile application that allows users to order and customize fresh juice prepared by an automated dispenser. The app communicates with ESP32-based system that controls ingredient reservoirs and dispensing mechanics.
