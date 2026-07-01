@@ -32,7 +32,7 @@ Tech Stack
 | Language | TypeScript |
 | Styling | Nativewind (Tailwind CSS for React Native) |
 | Hardware | ESP32 microcontroller |
-| Communication | Wi-Fi (HTTP/WebSocket — *update to match your implementation*) |
+| Communication | Wi-Fi|
 
 ---
 
